@@ -1,0 +1,7 @@
+# logs
+*.log
+
+# deployed Heroku apps create node_modules by using the package.json file
+node_modules
+
+coverage
